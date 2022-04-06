@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="control">Control</string>
+    <string name="fan_off">Off</string>
+    <string name="low">1</string>
+    <string name="medium">2</string>
+    <string name="high">3</string>
+    <string name="change">Change</string>
+    <string name="reset">Reset</string>
+</resources>
